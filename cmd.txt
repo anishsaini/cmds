@@ -1,0 +1,8 @@
+cd -> Change directory :  cd
+cd .. -> back one step only : cd ..
+pwd -> Print working directory : pwd
+ls -> List items : ls
+mkdir -> create folder : mkdir foldername
+rmdir -> remove folder : rmdir foldername
+touch -> create empty file: touch filename.ext
+clear -> clear console
