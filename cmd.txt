@@ -6,3 +6,6 @@ mkdir -> create folder : mkdir foldername
 rmdir -> remove folder : rmdir foldername
 touch -> create empty file: touch filename.ext
 clear -> clear console
+mv --> move file
+rmdir --> remove an empty directory
+exit --> exit any folder or file
