@@ -9,3 +9,5 @@ clear -> clear console
 mv --> move file
 rmdir --> remove an empty directory
 exit --> exit any folder or file
+rm --> remove a file
+rm -r --> remove a directory
